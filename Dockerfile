@@ -4,7 +4,7 @@
 # -v $HOME/.Xauthority:/root/.Xauthority lcrergo/ghidra-otr
 FROM debian
 # Metadata
-LABEL version="1.0"
+LABEL version="2.0.0"
 LABEL author="Lucas Cruz dos Reis"
 LABEL description="A docker image to deploy ghidra on the run"
 
